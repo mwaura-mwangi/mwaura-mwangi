@@ -9,19 +9,20 @@
 
 # Tech Stack:
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=database&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/PostgreSQL-grey?style=for-the-badge&logo=postgresql&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Pandas-grey?style=for-the-badge&logo=pandas&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Kafka-grey?style=for-the-badge&logo=apache-kafka&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Airflow-grey?style=for-the-badge&logo=apache-airflow&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/PySpark-grey?style=for-the-badge&logo=apachespark&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/AWS%20Glue-grey?style=for-the-badge&logo=amazon-aws&logoColor=white" height="28">
-  <img src="https://img.shields.io/badge/Big%20Data-grey?style=for-the-badge&logo=databricks&logoColor=white" height="28">
-</p>
+<div style="display: flex; overflow-x: auto; white-space: nowrap;">
+  <img src="https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=database&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/PostgreSQL-grey?style=for-the-badge&logo=postgresql&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Pandas-grey?style=for-the-badge&logo=pandas&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Kafka-grey?style=for-the-badge&logo=apache-kafka&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Airflow-grey?style=for-the-badge&logo=apache-airflow&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/PySpark-grey?style=for-the-badge&logo=apachespark&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/AWS%20Glue-grey?style=for-the-badge&logo=amazon-aws&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Big%20Data-grey?style=for-the-badge&logo=databricks&logoColor=white" height="32">
+</div>
+
 
 
 
