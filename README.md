@@ -1,9 +1,9 @@
 #  Hi, It's me.. mwaura
 
 ## About Me
--  I'm a backend developer with a passion for Python and Flask
--  Currently working on: Self improvement
--  Exploring: Data Analytics, Data Engineering and AWS
+-  I'm building my career as a **Data Engineer**, while leveraging my foundation as a **Backend Developer** to design robust and scalable systems.
+-  Currently working on: Self Improvement and Deepening my Skills
+-  Exploring: Data Analytics, Data Engineering & AWS
 -  Ask me about: REST APIs, Flask, PostgreSQL
 
 
