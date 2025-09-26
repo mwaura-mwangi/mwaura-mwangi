@@ -1,7 +1,7 @@
 #  Hi, It's me.. mwaura
 
 ## About Me
--  I'm building my career as a **Data Engineer**, while leveraging my foundation as a **Backend Developer** to design robust and scalable systems.
+-  I'm building my career as a **Data Engineer**, while leveraging my foundation as a Backend Developer to design robust and scalable systems.
 -  Currently working on: Self Improvement and Deepening my Skills
 -  Exploring: Data Analytics, Data Engineering & AWS
 -  Ask me about: REST APIs, Flask, PostgreSQL
