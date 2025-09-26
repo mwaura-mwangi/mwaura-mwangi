@@ -3,7 +3,7 @@
 ## About Me
 -  I'm a backend developer with a passion for Python and Flask
 -  Currently working on: Self improvement
--  Exploring: Data Engineering and AWS
+-  Exploring: Data Analytics, Data Engineering and AWS
 -  Ask me about: REST APIs, Flask, PostgreSQL
 
 
