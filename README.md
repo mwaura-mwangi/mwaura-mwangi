@@ -20,6 +20,7 @@
 ![Apache Airflow](https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) 
 ![PySpark](https://img.shields.io/badge/pyspark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) 
 ![Big Data](https://img.shields.io/badge/big%20data-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 
 
 
