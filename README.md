@@ -9,18 +9,19 @@
 
 # Tech Stack:
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=for-the-badge&logo=database&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white) 
-![Apache Airflow](https://img.shields.io/badge/airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) 
-![PySpark](https://img.shields.io/badge/pyspark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) 
-![Big Data](https://img.shields.io/badge/big%20data-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS%20Glue-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Python](https://img.shields.io/badge/Python-grey?style=for-the-badge&logo=python&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-grey?style=for-the-badge&logo=flask&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge&logo=database&logoColor=white) 
+![SQLite](https://img.shields.io/badge/SQLite-grey?style=for-the-badge&logo=sqlite&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-grey?style=for-the-badge&logo=mysql&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-grey?style=for-the-badge&logo=pandas&logoColor=white) 
+![Apache Kafka](https://img.shields.io/badge/Kafka-grey?style=for-the-badge&logo=apache-kafka&logoColor=white) 
+![Apache Airflow](https://img.shields.io/badge/Airflow-grey?style=for-the-badge&logo=apache-airflow&logoColor=white) 
+![PySpark](https://img.shields.io/badge/PySpark-grey?style=for-the-badge&logo=apachespark&logoColor=white) 
+![Big Data](https://img.shields.io/badge/Big%20Data-grey?style=for-the-badge&logo=databricks&logoColor=white) 
+![AWS Glue](https://img.shields.io/badge/AWS%20Glue-grey?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 
 
 
