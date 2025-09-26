@@ -16,5 +16,5 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mwaura-mwangi-57805382/) 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.mwauramwangi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mwaura-mwangi-57805382/) [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail&logoColor=white)](mailto:dev.mwauramwangi@gmail.com)
+
