@@ -14,4 +14,6 @@
 ---
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mwaura-mwangi-57805382/) [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail&logoColor=white)](mailto:dev.mwauramwangi@gmail.com) | ![Profile Views](https://komarev.com/ghpvc/?username=mwaura-mwangi&color=grey&style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mwaura-mwangi-57805382/) [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail&logoColor=white)](mailto:dev.mwauramwangi@gmail.com) 
+
+![Profile Views](https://komarev.com/ghpvc/?username=mwaura-mwangi&color=grey&style=flat)
