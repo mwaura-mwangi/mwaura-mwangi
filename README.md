@@ -1,5 +1,4 @@
 #  Hi, It's me.. mwaura
----
 ## About Me
 -  I'm building my career as a **Data Engineer**, while leveraging my foundation as a Backend Developer to design robust and scalable systems.
 -  Currently working on: Self Improvement and Deepening my Skills
@@ -16,7 +15,4 @@
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mwaura-mwangi-57805382/) [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail&logoColor=white)](mailto:dev.mwauramwangi@gmail.com)
-
----
-
 ![Profile Views](https://komarev.com/ghpvc/?username=mwaura-mwangi&color=grey&style=flat)
