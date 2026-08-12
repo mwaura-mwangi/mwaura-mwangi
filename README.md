@@ -3,7 +3,7 @@
 -  Building my career as a **Data Engineer**, while leveraging my foundation as a Backend Developer to design robust and scalable systems.
 -  Currently working on: Self Improvement and Deepening my Skills
 -  Exploring: Data Analytics, Data Engineering & AWS
--  Ask me about: REST APIs, Flask, PostgreSQL
+-  Ask me about: Flask, Pyspark, Airflow, Docker and Big data
 
 ---
 # Tech Stack:
