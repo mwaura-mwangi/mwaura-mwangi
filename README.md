@@ -3,13 +3,12 @@
 -  Building my career as a **Data Engineer**, while leveraging my foundation as a Backend Developer to design robust and scalable systems.
 -  Currently working on: Self Improvement and Deepening my Skills
 -  Exploring: Data Analytics, Data Engineering & AWS
--  Ask me about: Flask, Pyspark, Airflow, Docker and Big data
+-  Ask me about: SQL,Pandas, Pyspark, Airflow, Docker and Big data
 
 ---
 # Tech Stack:
 
-![Python](https://img.shields.io/badge/Python-grey?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-grey?style=flat&logo=database&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?style=flat&logo=postgresql&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-grey?style=flat&logo=apachespark&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-grey?style=flat&logo=apacheairflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-grey?style=flat&logo=docker&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-grey?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-grey?style=flat&logo=database&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?style=flat&logo=postgresql&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-grey?style=flat&logo=apachespark&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-grey?style=flat&logo=apacheairflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-grey?style=flat&logo=docker&logoColor=white) ![Big Data](https://img.shields.io/badge/Big%20Data-grey?style=flat&logo=apachehadoop&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-grey?style=flat&logo=pandas&logoColor=white)
 
 ---
 ## Connect with Me
